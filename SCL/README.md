@@ -11,7 +11,7 @@ matplotlib
 
 ## Results
 
-![](./results.png)
+![](https://github.com/Ramay7/Domain-Adaptation-Toolbox/blob/master/SCL/result.png)
 
 Since I do not find the source code by authors, I cannot know the way of feature representation used in authors' experiments. I have tried two kinds of feature representation in NLP tasks, however, the accuracy of both solutions was lower than that reported in original paper. 
 
