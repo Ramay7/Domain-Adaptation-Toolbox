@@ -1,0 +1,1 @@
+dvd--->electronics pivot_num=150 pivot_min_times=10 acc=0.749 time=2.731

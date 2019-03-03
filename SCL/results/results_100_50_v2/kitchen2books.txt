@@ -1,0 +1,1 @@
+kitchen--->books pivot_num=100 pivot_min_times=10 acc=0.715 time=266.812

@@ -1,0 +1,1 @@
+electronics--->kitchen pivot_num=50 pivot_min_times=10 acc=0.859 time=27824.139

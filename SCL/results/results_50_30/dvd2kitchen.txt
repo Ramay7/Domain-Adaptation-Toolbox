@@ -1,0 +1,1 @@
+dvd--->kitchen pivot_num=50 pivot_min_times=10 acc=0.738 time=842.180

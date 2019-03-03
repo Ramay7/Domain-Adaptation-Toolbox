@@ -1,0 +1,1 @@
+electronics--->books pivot_num=50 pivot_min_times=10 acc=0.6795 time=9.819
